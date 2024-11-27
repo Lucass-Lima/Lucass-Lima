@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Game Developer | C# | Inkscape | Unity2d<br>- Front-End Developer | HTML | CSS | JavaScript<br>- Content Creator | Instagram | Youtube<br>- Student Progamming | React JS</p>
+<p align="left">- Game Developer | C# | Inkscape | Unity2d<br>- Front-End Developer | HTML | CSS | JavaScript<br>- Content Creator | Instagram | Youtube<br>- Student Progamming | React JS | Front-End</p>
 
 ###
 
